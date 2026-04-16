@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2548d8f77543fc38",
+        "id": "da9edc49e220a09d",
         "type": "tabs",
         "children": [
           {
-            "id": "060867b740cdb248",
+            "id": "d9bffe5b474f360f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Anthropic CEO Dario Amodei 提出的五个核心观点.md",
+                "file": "Clippings/vibe 感想 @郭宇.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anthropic CEO Dario Amodei 提出的五个核心观点"
+              "title": "vibe 感想 @郭宇"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 301.5
   },
   "right": {
     "id": "cbd195ea7fc22a1d",
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +191,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21901eacedc0e9fd",
+  "active": "d9bffe5b474f360f",
   "lastOpenFiles": [
-    "Clippings/蚂蚁集团开源6大可视化Skill，让Claude Code画美图更简单.md",
-    "Clippings/Anthropic CEO Dario Amodei 提出的五个核心观点.md",
+    "Clippings/vibe 感想 @郭宇.md",
+    "未命名.base",
+    "IDEAS/hhhh.md",
+    "ToDo/todo.md",
+    "ToDo",
+    "IDEAS",
     "README.md",
+    "Pasted image 20260416104951.png",
+    "Clippings/Anthropic CEO Dario Amodei 提出的五个核心观点.md",
+    "Clippings/蚂蚁集团开源6大可视化Skill，让Claude Code画美图更简单.md",
     "Clippings/思考是主权行为.md",
     "Clippings"
   ]
