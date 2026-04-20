@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "思想照亮旅程：得到名家大课"
             }
+          },
+          {
+            "id": "66b3d2149b90ffa0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,12 +203,14 @@
       "obsidian-weread-plugin:打开微信读书书架": false
     }
   },
-  "active": "a1681424369f131d",
+  "active": "66b3d2149b90ffa0",
   "lastOpenFiles": [
-    "Clippings/思考是主权行为.md",
     "思想照亮旅程：得到名家大课.md",
-    "请尊重一个姑娘的努力.md",
     "Clippings/vibe 感想 @郭宇.md",
+    "Clippings/Thread by @lijigang.md",
+    "Clippings/AI 反思.md",
+    "Clippings/思考是主权行为.md",
+    "请尊重一个姑娘的努力.md",
     "未命名.base",
     "IDEAS/hhhh.md",
     "ToDo/todo.md",
