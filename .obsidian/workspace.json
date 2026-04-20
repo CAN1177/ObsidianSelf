@@ -11,10 +11,14 @@
             "id": "66b3d2149b90ffa0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Thread by @lijigang.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Thread by @lijigang"
             }
           }
         ]
