@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "IDEAS/JobJD-Greeting-Generator Skill 说明文档.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -159,6 +159,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "obsidian-weread-plugin:打开微信读书书架": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -171,10 +172,11 @@
   },
   "active": "8ed97438ea9eb296",
   "lastOpenFiles": [
+    "Clippings/第三记忆.md",
+    "IDEAS/JobJD-Greeting-Generator Skill 说明文档.md",
     "ToDo/未命名111.md",
     "Pasted image 20260422113217.png",
     "IDEAS/优化打招呼skills.md",
-    "IDEAS/JobJD-Greeting-Generator Skill 说明文档.md",
     "IDEAS/投递简历打招呼skills.md",
     "ToDo/下一个.md",
     "Clippings/vibe 感想 @郭宇.md",
