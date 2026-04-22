@@ -1,0 +1,62 @@
+---
+title: "Post by @lijigang on X"
+source: "https://x.com/lijigang/status/2046410860672012353"
+author:
+  - "[[@lijigang]]"
+published: 2026-04-21
+created: 2026-04-22
+description: "斯蒂格勒在《技术与时间》提出「第三记忆」： 生物学公认有两种记忆。一种是遗传记忆，写在 DNA 上，物种共享，死了还在后代身上。一种是表观记忆，个体生命里积累的经验、技能、印象，随着这具身体的死亡而永灭。斯蒂格勒说，人还有第三种：外化在技术物里的记忆。 你手上的一本书，是一种"
+tags:
+  - "clippings"
+---
+斯蒂格勒在《技术与时间》提出「第三记忆」：
+
+生物学公认有两种记忆。一种是遗传记忆，写在 DNA 上，物种共享，死了还在后代身上。一种是表观记忆，个体生命里积累的经验、技能、印象，随着这具身体的死亡而永灭。斯蒂格勒说，人还有第三种：外化在技术物里的记忆。
+
+你手上的一本书，是一种第三记忆——作者把经验、洞见、判断刻到符号里，通过纸张传给从未见过他的你。你桌上那把椅子是一种第三记忆——多少代木匠关于"坐"、关于"平衡"的手艺积淀到这件物里。你手机里的代码是第三记忆——千万个编程者的思维方式以比特形式保存着。
+
+这种记忆的决定性特征是：它不随个体死亡而消失。祖父死了，祖父做的椅子还在，椅子上的经验还在。一个从未见过祖父的孙子，可以通过摸到、看到、使用这把椅子，接触到祖父未曾说出来的那部分感觉。
+
+当我们连续使用AI，上下文持续积累，双方不断加深「理解」，这又是什么记忆呢?
+
+---
+
+## Comments
+
+> **柯基是只猫 @Keji715** · [2026-04-22](https://x.com/Keji715/status/2046840241567228328)
+> 
+> 或许AI训练数据里包含的人类书写本身就是斯蒂格勒说的第三记忆，模型本身才是那个椅子，每次对话只是在使用它，而不是在创造新记忆
+
+> **ljh @ljh0x1d** · [2026-04-21](https://x.com/ljh0x1d/status/2046469161665302666)
+> 
+> 一想到这么优秀的大脑有一天也会消失在这个世界上 就让人很惋惜 就好像爱因斯坦门捷列夫他们的消失是人类的巨大损失
+
+> **Coredcy @Coredcy** · [2026-04-21](https://x.com/Coredcy/status/2046429564155605321)
+> 
+> 继刚老师又一次给予我思考的机会：感觉这种“记忆”的主要接收者是ai，因为它利用context补充了“第三记忆”；而人类并没有获得额外的记忆
+
+> **喜羊羊（web3.0资料） @enoch4306** · [2026-04-21](https://x.com/enoch4306/status/2046468153178460217)
+> 
+> 《技术与时间》
+> 
+> 来，和大佬一起长脑子。
+> 
+> https://pan.quark.cn/s/d77796aa13f9
+
+> **觉一 · iEarth @iEarth432** · [2026-04-21](https://x.com/iEarth432/status/2046481129113587879)
+> 
+> 现在的AI大语言模型（LLM），本质上就是全人类“第三记忆”的超级聚合体。我们把所有的知识、经验甚至偏见都外化到了互联网上，然后被AI一口吞下。
+> 
+> 以后人类个体的“第二记忆”随着肉体清零，但AI会用我们的“第三记忆”继续运转这个世界。@grok 有哪些科幻文学作品探讨了上述议题？
+
+> **Himmelmeer @himmelmeer22** · [2026-04-21](https://x.com/himmelmeer22/status/2046445884226035814)
+> 
+> Stiegler's concept is incredibly prescient. In every era, this "third memory" manifests differently. As we transform the world, the world transforms us in return. The objects we create do more than just serve us; they become living records of our mutual evolution, acting as a
+
+> **ming @mingwb** · [2026-04-21](https://x.com/mingwb/status/2046415040472105165)
+> 
+> You may never meet the people who experience it, never shake their hands, never hear their stories or tell yours, but through the act of creating something with great care and love, something meaningful is transmitted between people.
+
+> **jeffrey @jeffreyning** · [2026-04-21](https://x.com/jeffreyning/status/2046424661387583634)
+> 
+> 老看这么深奥的文章，人会不会精神崩溃？
