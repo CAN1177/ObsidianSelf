@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Anthropic CEO Dario Amodei 提出的五个核心观点.md",
-                "mode": "preview",
+                "file": "IDEAS/投递简历打招呼skills.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anthropic CEO Dario Amodei 提出的五个核心观点"
+              "title": "投递简历打招呼skills"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200
   },
   "right": {
     "id": "cbd195ea7fc22a1d",
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/Anthropic CEO Dario Amodei 提出的五个核心观点.md",
+                "file": "IDEAS/投递简历打招呼skills.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Anthropic CEO Dario Amodei 提出的五个核心观点 的大纲"
+              "title": "投递简历打招呼skills 的大纲"
             }
           },
           {
@@ -193,22 +193,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e8aaee00f55308c",
+  "active": "15146d29858ff279",
   "lastOpenFiles": [
     "IDEAS/投递简历打招呼skills.md",
-    "Clippings/Thread by @lijigang.md",
-    "Clippings/Anthropic CEO Dario Amodei 提出的五个核心观点.md",
-    "Clippings/思考是主权行为.md",
-    "IDEAS/hhhh.md",
-    "Clippings/vibe 感想 @郭宇.md",
+    "README.md",
     "思想照亮旅程：得到名家大课.md",
+    "Clippings/vibe 感想 @郭宇.md",
+    "Clippings/思考是主权行为.md",
+    "Clippings/Anthropic CEO Dario Amodei 提出的五个核心观点.md",
+    "Clippings/Thread by @lijigang.md",
+    "IDEAS/hhhh.md",
     "Clippings/AI 反思.md",
     "请尊重一个姑娘的努力.md",
     "未命名.base",
     "ToDo/todo.md",
     "ToDo",
     "IDEAS",
-    "README.md",
     "Pasted image 20260416104951.png",
     "Clippings/蚂蚁集团开源6大可视化Skill，让Claude Code画美图更简单.md",
     "Clippings"
