@@ -15,3 +15,4 @@
 		- [ ] 输入的信息来源, JD + 公司背景+HR身份(男女等)+其他
 
 
+[[JobJD-Greeting-Generator Skill 说明文档]]
