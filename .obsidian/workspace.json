@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "447a46dc2ab46f82",
+        "id": "9236399d3337f220",
         "type": "tabs",
         "children": [
           {
-            "id": "66b3d2149b90ffa0",
+            "id": "afc3e67b278ae585",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Clippings/Thread by @lijigang.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260422113217.png"
               },
-              "icon": "lucide-file",
-              "title": "Thread by @lijigang"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260422113217"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 240.5
   },
   "right": {
     "id": "cbd195ea7fc22a1d",
@@ -154,16 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Pasted image 20260422113217.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Pasted image 20260422113217 的大纲"
             }
           },
           {
-            "id": "21901eacedc0e9fd",
+            "id": "0e8aaee00f55308c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -177,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 230.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,26 +187,31 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-weread-plugin:打开微信读书书架": false
+      "obsidian-weread-plugin:打开微信读书书架": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66b3d2149b90ffa0",
+  "active": "afc3e67b278ae585",
   "lastOpenFiles": [
-    "Clippings/Thread by @lijigang.md",
+    "IDEAS/优化打招呼skills.md",
+    "IDEAS/投递简历打招呼skills.md",
+    "Pasted image 20260422113217.png",
+    "IDEAS/JobJD-Greeting-Generator Skill 说明文档.md",
+    "ToDo/未命名111.md",
+    "ToDo/todo.md",
+    "README.md",
     "思想照亮旅程：得到名家大课.md",
     "Clippings/vibe 感想 @郭宇.md",
-    "Clippings/AI 反思.md",
     "Clippings/思考是主权行为.md",
+    "Clippings/Anthropic CEO Dario Amodei 提出的五个核心观点.md",
+    "Clippings/Thread by @lijigang.md",
+    "IDEAS/hhhh.md",
+    "Clippings/AI 反思.md",
     "请尊重一个姑娘的努力.md",
     "未命名.base",
-    "IDEAS/hhhh.md",
-    "ToDo/todo.md",
     "ToDo",
     "IDEAS",
-    "README.md",
     "Pasted image 20260416104951.png",
-    "Clippings/Anthropic CEO Dario Amodei 提出的五个核心观点.md",
     "Clippings/蚂蚁集团开源6大可视化Skill，让Claude Code画美图更简单.md",
     "Clippings"
   ]
