@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "41a33153c4ff2c86",
+        "id": "b143d02efee9ed7e",
         "type": "tabs",
         "children": [
           {
-            "id": "c3c3172a2b6669a8",
+            "id": "8ed97438ea9eb296",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDEAS/投递简历打招呼skills.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "投递简历打招呼skills"
+              "title": "新标签页"
             }
           }
         ]
@@ -169,10 +165,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c3c3172a2b6669a8",
+  "active": "8ed97438ea9eb296",
   "lastOpenFiles": [
-    "Clippings/vibe 感想 @郭宇.md",
     "IDEAS/投递简历打招呼skills.md",
+    "ToDo/下一个.md",
+    "Clippings/vibe 感想 @郭宇.md",
     "Clippings/Thread by @lijigang.md",
     "Clippings/Anthropic CEO Dario Amodei 提出的五个核心观点.md",
     "思想照亮旅程：得到名家大课.md",
