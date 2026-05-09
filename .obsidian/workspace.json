@@ -189,16 +189,18 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-weread-plugin:打开微信读书书架": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "translate:Open translation view": false
     }
   },
-  "active": "0e8aaee00f55308c",
+  "active": "7bcbf09fb0ce6c22",
   "lastOpenFiles": [
+    "Clippings/Post by @ooeli_eth on X.md",
+    "读书/小狗钱钱.md",
     "ToDo/自由100词.md",
     "ToDo/agent开发100词.md",
     "Clippings/第三记忆.md",
     "Clippings/房地产未来常识.md",
-    "读书/小狗钱钱.md",
     "读书",
     "IDEAS/优化打招呼skills.md",
     "Clippings/Anthropic CEO Dario Amodei 提出的五个核心观点.md",
