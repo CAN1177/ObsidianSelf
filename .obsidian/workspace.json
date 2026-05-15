@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "57975902169952e3",
+        "id": "2afdcee29d63950f",
         "type": "tabs",
         "children": [
           {
-            "id": "b53e014297d3ef0d",
+            "id": "492974f7b7966505",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Free/000967（盈峰环境).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "000967（盈峰环境)"
+              "title": "新标签页"
             }
           }
         ]
@@ -171,6 +167,26 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "dad9eb24b1274556",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "6072bd9d282da00f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
@@ -190,14 +206,19 @@
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-weread-plugin:打开微信读书书架": false,
-      "translate:Open translation view": false
+      "translate:Open translation view": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b53e014297d3ef0d",
+  "active": "0e8aaee00f55308c",
   "lastOpenFiles": [
+    "读书/毛选.md",
+    "读书/小狗钱钱.md",
+    "Free/猪周期历史低点.md",
+    "Free/000967（盈峰环境).md",
     "57c8b5d213528b6f5f8cfbb487e97caa.png",
     "README.md",
-    "Free/000967（盈峰环境).md",
     "Free",
     "思想照亮旅程：得到名家大课.md",
     "Pasted image 20260422113217.png",
@@ -205,7 +226,6 @@
     "未命名.canvas",
     "Clippings/free vs retire.md",
     "Clippings/Post by @ooeli_eth on X.md",
-    "读书/小狗钱钱.md",
     "ToDo/自由100词.md",
     "ToDo/agent开发100词.md",
     "Clippings/第三记忆.md",
@@ -224,7 +244,6 @@
     "Clippings/Thread by @lijigang.md",
     "IDEAS/hhhh.md",
     "Clippings/AI 反思.md",
-    "请尊重一个姑娘的努力.md",
     "未命名.base",
     "ToDo",
     "IDEAS",

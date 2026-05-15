@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-weread-plugin",
-  "translate"
+  "translate",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "table-editor-obsidian"
 ]
